@@ -476,10 +476,10 @@ ul {
        font-size: 80px;
     }
     .img_data1 {
-        padding-left: 0px;
+       padding-right: 30px;
     }
     .img_data2 {
-        padding-left: 65px;
+       padding-left: 40px;
     }
     .contacto img {
         background-color: var(--bg-contacto);
