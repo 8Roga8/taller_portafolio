@@ -373,7 +373,8 @@ ul {
         padding: 15px;
         width: 280px;
     }
-    
+
+
     .extra1 {
         display: grid;
         grid-template-columns: repeat(2, 1fr);
